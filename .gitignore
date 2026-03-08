@@ -1,0 +1,6 @@
+data/
+*.xlsx
+*.csv
+*.parquet
+*.delta
+.env
